@@ -1,0 +1,3 @@
+site_name: wasi4
+nav:
+ - Home: v4.md
